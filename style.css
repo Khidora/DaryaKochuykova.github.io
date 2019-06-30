@@ -124,6 +124,7 @@ article {
 
 aside {
   position: fixed;
+  left: 30;
   top: 30;
   flex: 1;
   margin: 53px 0px 0px -15px;
